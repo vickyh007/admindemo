@@ -1,0 +1,40 @@
+[31-May-2019 11:28:17 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cipx3521/public_html/demo/107/application/models/Dataaccess_mdl.php on line 15
+[31-May-2019 11:28:33 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cipx3521/public_html/demo/107/application/models/Dataaccess_mdl.php on line 15
+[21-Jun-2019 13:49:57 Asia/Jakarta] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/cipx3521/public_html/demo/101/application/controllers/Datatable.php on line 89
+[26-Jun-2019 21:46:21 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cipx3521/public_html/demo/101/application/models/Dataaccess_mdl.php on line 15
+[26-Jun-2019 21:48:07 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cipx3521/public_html/demo/101/application/models/Dataaccess_mdl.php on line 15
+[26-Jun-2019 21:48:15 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cipx3521/public_html/demo/101/application/models/Dataaccess_mdl.php on line 15
+[27-Jun-2019 03:22:48 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cipx3521/public_html/demo/101/application/models/Dataaccess_mdl.php on line 15
+[27-Jun-2019 03:22:57 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cipx3521/public_html/demo/101/application/models/Dataaccess_mdl.php on line 15
+[19-Sep-2020 22:57:29 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:00:25 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:00:28 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:00:33 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:00:42 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:00:43 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:02:16 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:02:16 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:02:16 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:02:18 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:02:18 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:02:19 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:02:19 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:08:10 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 201
+[19-Sep-2020 23:08:13 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 201
+[19-Sep-2020 23:09:52 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 201
+[19-Sep-2020 23:10:04 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 201
+[19-Sep-2020 23:10:07 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 201
+[19-Sep-2020 23:14:12 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 201
+[19-Sep-2020 23:14:15 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 201
+[19-Sep-2020 23:14:28 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:14:29 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:14:31 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:14:33 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:14:50 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:14:52 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:14:52 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:14:54 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:14:54 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:15:03 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:15:09 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
+[19-Sep-2020 23:17:12 America/Chicago] PHP Fatal error:  Cannot redeclare Home::typography() in /home2/ominfratech/public_html/demo1/application/controllers/Home.php on line 200
